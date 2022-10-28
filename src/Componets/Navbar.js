@@ -9,7 +9,7 @@ function Navbar() {
       <div className=' col'> 
     <nav className='navbar navbar-expand-md navbar-light bg-light py-4 px-2'>
        <img src=" " alt='_A'></img>
-        <h1 className='navbar-brand '>Ajeet Verma</h1>
+        <h1 className='navbar-brand '>Aditya Goel</h1>
         <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#mynavbar">
       <span class="navbar-toggler-icon"></span>
     </button>
